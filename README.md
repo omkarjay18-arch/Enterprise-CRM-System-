@@ -4,16 +4,28 @@ OPEN SOURCE STARTUP CUSTOMER RELATIONSHIP MANAGEMENT FOR STARTUPS AND SMALL BUSI
 ## Introduction: What is a CRM?
 [**Customer relationship management (CRM)**](https://www.salesforce.com/crm/what-is-crm/) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships to grow your business. A CRM system helps companies stay connected to customers, streamline processes and improve profitability.
 
-a **CRM system**, on the other hand is a tool that helps with contact management, sales management, agent productivity, and more. CRM tools can now be used to manage customer relationships across the entire customer lifecycle, spanning marketing, sales, digital commerce, and customer service interactions.
+a **CRM system**, on the other hand is a tool that helps with contact management, sales management, agent productivity, and more. CRM tools can now be used to manage customer relationships across the entire customer lifecycle, spanning marketing, sales, digital commerce, and customer service interactions.  
+
+- **Sales & Lead Management
+- Lead Management: Track and nurture leads from initial contact to conversion
+- Account Management: Maintain detailed records of customer accounts and organizations
+- Contact Management: Store and organize all your customer contact information
+- Opportunity Management: Track deals through your sales pipeline with customizable stages
+
+-  **Sales Tools
+-  Quote Management: Generate professional quotes with line items
+-  Product Catalog: Maintain product inventory with pricing
+-  Sales Pipeline: Visual opportunity tracking with probability scoring
+
 
 ## Description
 Given the critical importance of such tool in modern business operations, this project builds a Customer Relationship Management (CRM) system using the MERN stack (MongoDB, Express, React, Node.js). The CRM aims to improve customer interaction management and sales efficiency for businesses, particularly focusing on **general business needs**. However, the core functionalities can be easily adapted to various industries.
 
-## Key Functionalities
+## Key Functionalities  
 - **Contact Management**: Create, store, and manage detailed contact information for leads, customers, and other business associates.
 - **Sales Pipeline Management**: Track deals through various stages of the sales pipeline.
 - **Task Management**: Assign and track tasks related to sales, customer interactions, and other business activities, improving team collaboration and organization.
-- **Reporting**: Generate reports to gain insights into sales performance, customer trends, and identify areas for improvement.
+- **Reporting**: Generate reports to gain insights into sales performance, customer trends, and identify areas for improvement.  
 
 Please check out [ROADMAP.md](ROADMAP.md) for a full breakdown of the functionalities we aim to implement.
 
