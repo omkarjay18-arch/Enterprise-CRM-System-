@@ -1,7 +1,8 @@
-Final Project | CRM @[ArkX](https://www.arkx.group/)
+ENTERPRISE CRM SYSTEM 
+OPEN SOURCE STARTUP CUSTOMER RELATIONSHIP MANAGEMENT FOR STARTUPS AND SMALL BUSINESSES 
 
 ## Introduction: What is a CRM?
-[**Customer relationship management (CRM)**](https://www.salesforce.com/crm/what-is-crm/) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships to grow your business. A CRM system helps companies stay connected to customers, streamline processes, and improve profitability.
+[**Customer relationship management (CRM)**](https://www.salesforce.com/crm/what-is-crm/) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships to grow your business. A CRM system helps companies stay connected to customers, streamline processes and improve profitability.
 
 a **CRM system**, on the other hand is a tool that helps with contact management, sales management, agent productivity, and more. CRM tools can now be used to manage customer relationships across the entire customer lifecycle, spanning marketing, sales, digital commerce, and customer service interactions.
 
@@ -30,7 +31,7 @@ Please check out [ROADMAP.md](ROADMAP.md) for a full breakdown of the functional
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/spytech-arkx/mern-crm
+   git clone https://github.com/omkarjay18-arch/Enterprise-CRM-System-
    ```
 
 2. Navigate to the project directory:
