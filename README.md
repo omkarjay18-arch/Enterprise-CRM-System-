@@ -6,17 +6,27 @@ OPEN SOURCE STARTUP CUSTOMER RELATIONSHIP MANAGEMENT FOR STARTUPS AND SMALL BUSI
 
 a **CRM system**, on the other hand is a tool that helps with contact management, sales management, agent productivity, and more. CRM tools can now be used to manage customer relationships across the entire customer lifecycle, spanning marketing, sales, digital commerce, and customer service interactions.  
 
-- **Sales & Lead Management
-- Lead Management: Track and nurture leads from initial contact to conversion
-- Account Management: Maintain detailed records of customer accounts and organizations
-- Contact Management: Store and organize all your customer contact information
-- Opportunity Management: Track deals through your sales pipeline with customizable stages
+FEATURE
+### Lead Management
+- ✅ **Complete Lead Lifecycle**: Track leads from initial contact to conversion
+- ✅ **Advanced Search & Filtering**: Find leads by name, company, status, or source
+- ✅ **Lead Sources Tracking**: Monitor where your leads come from
+- ✅ **Priority Management**: Set and track lead priorities
+- ✅ **Sales Pipeline**: Track estimated values and probabilities
+- ✅ **Follow-up Scheduling**: Set next follow-up dates
+- ✅ **Bulk Import**: Import multiple leads at once
 
--  **Sales Tools
--  Quote Management: Generate professional quotes with line items
--  Product Catalog: Maintain product inventory with pricing
--  Sales Pipeline: Visual opportunity tracking with probability scoring
+### Contact Management
+- ✅ **Customer Database**: Manage existing customers and prospects
+- ✅ **Company Information**: Track job titles, departments, and company details
+- ✅ **Contact Types**: Categorize as customers, prospects, vendors, or partners
+- ✅ **Account Management**: Assign account managers to contacts
 
+### Dashboard & Analytics
+- ✅ **Real-time Statistics**: View lead counts, pipeline value, and conversion rates
+- ✅ **Source Analytics**: See which channels generate the most leads
+- ✅ **Recent Activity**: Quick overview of new leads and updates
+- ✅ **Performance Metrics**: Track your CRM performance
 
 ## Description
 Given the critical importance of such tool in modern business operations, this project builds a Customer Relationship Management (CRM) system using the MERN stack (MongoDB, Express, React, Node.js). The CRM aims to improve customer interaction management and sales efficiency for businesses, particularly focusing on **general business needs**. However, the core functionalities can be easily adapted to various industries.
