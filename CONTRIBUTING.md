@@ -9,14 +9,10 @@ This guide outlines how to get started and contribute code to this project.
 
 First of all, you will need to have a copy of the Github repository on your own account so you could add changes to it to then request adding your contributions to the main project repository.
 
-1. Visit the project [repository](https://github.com/spytech-arkx/mern-crm) on GitHub.
+1. Visit the project [repository](https://github.com/omkarjay18-arch/Enterprise-CRM-System-) on GitHub.
 2. Click on the "Fork" button in the top right corner. This creates your own copy of the repository.
-
-   ![](https://im.gurl.eu.org/file/51d054586606580d2a5d0.png)
 4. Choose whether to only copy the main branch or other branches ( dev, prod..)
    
-   ![](https://im.gurl.eu.org/file/5779679339b8c50f47808.png)
-
 ### **Clone Your Fork:**
 
 You've made a copy of the project (on GitHub). Now, let's download it to your computer so you can work on it there.
@@ -24,10 +20,8 @@ You've made a copy of the project (on GitHub). Now, let's download it to your co
 1. Open a terminal window.
 2. Use the `git clone` command to clone your forked repository to your local machine. Replace `<your-username>` with your GitHub username and `<repository-name>` with the actual name of the repository, or simply copy paste the link by clicking on the green code button.
    
-   ![](https://im.gurl.eu.org/file/b7d0e6bf42ae155d0aa37.png)
-
 ```bash
-  git clone https://github.com/<your-username>/<repository-name>.git
+  git clone https://github.com/omkarjay18-arch/Enterprise-CRM-System-/<Enterprise-CRM-System->.git
 ```
 
 ### **Install Dependencies:**
