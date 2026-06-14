@@ -28,9 +28,6 @@ You've made a copy of the project (on GitHub). Now, let's download it to your co
 
 Since our project will require specific software or libraries to run (express, multer ...). We will have to install these dependencies on our local machine by executing `npm install`. This is of course applicable only if you find yourself having to fork the project at a future date where dependencies are added and need to be installed.
 
-> [!Warning]
-> Always make sure to gitignore the node_modules folder. by adding `**/node_modules` to your `.gitignore` at the root folder.
-
 ## **Making Changes (Branching)**
 
 1. **Navigate to the Project Directory:** : Use the `cd` command to navigate to the local project directory you just cloned.
